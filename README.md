@@ -2,6 +2,9 @@
 # about
 saw [this post](https://www.tumblr.com/clarenecessities/733543437902757889), decided to throw together a script to archive threads
 
+### edit: see also [this post - "he-man.org is being officially archived"](https://www.tumblr.com/clarenecessities/733745673937256448)
+tldr stuff's already being handled by Archive Team folks, so no need to rush to run this.
+
 # setup
 1. clone this repo
 1. install the requirements `python3 -m pip install -r requirements.txt`
