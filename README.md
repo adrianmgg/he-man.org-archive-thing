@@ -5,6 +5,7 @@ saw [this post](https://www.tumblr.com/clarenecessities/733543437902757889), dec
 # setup
 1. clone this repo
 1. install the requirements `python3 -m pip install -r requirements.txt`
+
 i might set this up as a pip installable thing but for now this is it
 
 # usage
